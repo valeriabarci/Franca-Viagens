@@ -1,0 +1,66 @@
+#voo{
+    padding: 0;
+    background-color: rgb(73, 73, 73);
+    margin: 0 0 0 0;
+    width: 300px;
+    color: #FFF;
+}
+
+#info {
+    font-weight: bold;
+}
+
+#info:hover {
+    font-weight: bold;
+    color: #333;
+    border: 1px solid red;
+}
+
+#alert {
+    color: red;
+    font-weight: bold;
+}
+
+.buttons ul li{
+    cursor: pointer;
+}
+
+.buttons li{
+    list-style: none;
+    display: inline-block;
+}
+
+#reservation {
+    background-color: transparent;
+    color: green;
+    border: 1px solid green;
+    border-radius:7px;
+    font-size: 19px;
+    transition: 0.6s;
+}
+
+#reservation:hover{
+    background-color: green;
+    color: #FFF;
+    cursor: pointer;
+}
+
+#cancel {
+    background-color: transparent;
+    color: red;
+    border: 1px solid red;
+    border-radius:10px;
+    font-size: 19px;
+    transition: 0.6s;
+    margin: 0 15px;
+}
+
+#cancel:hover{
+    background-color: red;
+    color: #FFF;
+    cursor: pointer;
+}
+
+#reservation, #cancel {
+    align-content: space-around;
+}

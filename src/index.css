@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(44, 44, 50);
+    color: aliceblue;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
