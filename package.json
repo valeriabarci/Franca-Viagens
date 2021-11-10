@@ -1,7 +1,7 @@
 {
   "name": "passagens-aereas",
   "version": "0.1.0",
-  "homepage": "https://valeriabarci.github.io/franca-viagens"
+  "homepage": "https://valeriabarci.github.io/Franca-Viagens"
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
